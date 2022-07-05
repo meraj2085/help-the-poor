@@ -33,3 +33,54 @@ body{
      font-size: 22px;
 }
 
+/*Section: Donate now */
+
+#donate-sec{
+     margin-top: 100px;
+     text-align: center;
+}
+.top-text h1{
+     color: black;
+     font-size: 60px;
+     font-family: 'Cairo', sans-serif;
+     line-height: 12px;
+}
+.top-text p{
+     font-size: 24px;
+}
+.dnt-taka{
+     display: flex;
+     margin-left: 18.2%;
+     margin-top: 50px;
+     margin-bottom: 50px;
+
+}
+.dnt-taka h2{
+     margin: 20px;
+     background-color: rgba(221, 221, 221, 0.317);
+     padding: 30px 20px;
+     border-radius: 10px;
+     font-size: 40px;
+     color: rgba(0, 0, 0, 0.616);
+     font-family: 'Cairo', sans-serif;
+}
+.dnt-taka .select-tk{
+     background-color: #fc656225;
+     color: #fc6462;
+     border: 3px solid #fc6462;
+}
+.other-amt{
+     padding-top: 10px;
+}
+.other-amt .input-data{
+     width: 400px;
+     text-align: center;
+     padding: 20px 50px;
+     outline: none;
+     border-width: 0px;
+     font-size: 22px;
+}
+.other-amt hr{
+     width: 62%;
+     margin-bottom: 40px;
+}
