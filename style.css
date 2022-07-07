@@ -191,6 +191,7 @@ body{
      border-radius: 0 25px 25px 0;
      outline: none;
      border: none;
+     margin-left: -10px;
 }
 
 /* Section: Footer */
